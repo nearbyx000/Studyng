@@ -11,14 +11,10 @@
             "id": "0ffe4ff9403b5754",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Logical operators.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logical operators"
+              "title": "New tab"
             }
           }
         ]
@@ -179,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48a13f19c7a15466",
+  "active": "962a8e22a8efa16a",
   "lastOpenFiles": [
-    "JS/Compasion operators.md",
     "JS/Logical operators.md",
+    "JS/Compasion operators.md",
     "JS/If...else statement.md",
     "JS/If statement.md",
     "JS/Strict mode.md",
